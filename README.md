@@ -6,7 +6,7 @@ PdfDocument,
 FusedLocationProviderClient
 
 Download the app from the below link
-https://t.ly/1Df3T
+https://kangkan-karmaker.byethost18.com/app/payment_demo.apk
 
 
 ![WhatsApp Image 2023-08-09 at 7 17 09 PM](https://github.com/Kangkankarmaker/Payment_System_Demo/assets/43381311/3c1556d7-f687-48ce-bdf0-e51e402fee5a)
